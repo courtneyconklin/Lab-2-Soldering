@@ -91,9 +91,14 @@ i. 	Begin assembling the robot as specified in the following steps:
      Left Wheel Encoder*	Left
      Right Wheel Encoder*	Right
    
-  Now, we need to attach the Top Chassis Plate Assembly
-  Line up the Top Chassis Plate on top of all the struts, and carefully snap the Top Chassis Plate assembly onto the side struts and       motor mounts. Press gently above each side strut individually until they each snap into place. If you have the Bumpers installed,       make sure the boards are between the top and bottom plates.
+  Now, we need to attach the Top Chassis Plate Assembly:
+  - Line up the Top Chassis Plate on top of all the struts, and carefully snap the Top Chassis Plate assembly onto the side struts and       motor mounts. Press gently above each side strut individually until they each snap into place. If you have the Bumpers installed,       make sure the boards are between the top and bottom plates.
+   - Place the power supply stick on half of the large breadboard and place the TB6612 h-bridge on the mini breadboard. 
+   - Place these two breadboards onto the top chassis plate of the robot so that they are permanently stuck.
+  - Install Arduino onto the Top Chassis Plate of the Robot. 
+  - Connect the components as specified by following the wiring chart which is seen below to complete the robot.  
 ![](IMG_1588.JPG)
+  - Verify with the instructor the functionality of the robot and the build of the robot. 
 
 # Test Equipment
 The only test equipment that was used in our lab was a black line of tape as well as the arduino program that was used to test the robot sensors that follow the black line of tape for movement. Also an arduino and a computer to run the program.
