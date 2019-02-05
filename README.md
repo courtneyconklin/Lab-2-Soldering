@@ -93,7 +93,7 @@ i. 	Begin assembling the robot as specified in the following steps:
    
   Now, we need to attach the Top Chassis Plate Assembly
   Line up the Top Chassis Plate on top of all the struts, and carefully snap the Top Chassis Plate assembly onto the side struts and       motor mounts. Press gently above each side strut individually until they each snap into place. If you have the Bumpers installed,       make sure the boards are between the top and bottom plates.
-
+![](IMG_1588.JPG)
 
 # Test Equipment
 The only test equipment that was used in our lab was a black line of tape as well as the arduino program that was used to test the robot sensors that follow the black line of tape for movement. Also an arduino and a computer to run the program.
@@ -103,7 +103,7 @@ The only test equipment that was used in our lab was a black line of tape as wel
 2. Ran Arduino on the computer to make sure the robot functioned properly.
 # Test Results
 ![](IMG_1587.JPG)
-![](IMG_1588.JPG)
+![](IMG_1589.JPG)
 
 
 # Discussion
