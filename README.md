@@ -104,7 +104,7 @@ The only test equipment that was used in our lab was a black line of tape as wel
 # Test Results
 ![](IMG_1587.JPG)
 ![](IMG_1589.JPG)
-
+![](IMG_1590.JPG)
 
 # Discussion
 Practicing soldering on the scrap materials allowed for me to become comfortable and familiar with this technique and be apply to solder the parts on my robot. I also was able to easily assemble my robot by following the directions. Another tool that I was able learn within this lab was how to read a wiring chart to connect the two components, which was something I had not be exposed to before this lab. Having a properly assembled robot that works with the Aruduino will allow me to be able to complete other labs in the future for this course.
